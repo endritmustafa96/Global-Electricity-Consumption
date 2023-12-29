@@ -1,6 +1,6 @@
 # GLOBAL ELECTRICITY CONSUMPTION
 
-<img src="https://blog.crisscrosstamizh.in/wp-content/uploads/2022/05/Explain-scientific-solutions-to-help-industries-reduce-their-energy-consumption.jpg" width="1200" height="800">
+<img src="https://blog.crisscrosstamizh.in/wp-content/uploads/2022/05/Explain-scientific-solutions-to-help-industries-reduce-their-energy-consumption.jpg" width="1200" height="500">
 
 ## Project Overview
 
