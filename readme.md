@@ -27,5 +27,4 @@ Preprocessed data: Explore the CSV files in the Preprocessed data directory if y
 Report: Refer to the detailed report <code>Energy_consumption_report.md</code> in the Report directory for a comprehensive summary of the analyses and findings.
 
 ---
-
 Endrit Mustafa
